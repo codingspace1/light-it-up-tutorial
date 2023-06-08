@@ -1,15 +1,9 @@
 
 > Open this page at [https://codingspace1.github.io/light-it-up-tutorial/](https://codingspace1.github.io/light-it-up-tutorial/)
 
-## Use as Extension
+## Tutorial
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/codingspace1/light-it-up-tutorial** and import
-
+* [tutorial] (/tutorial)
 ## Edit this project ![Build status badge](https://github.com/codingspace1/light-it-up-tutorial/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
